@@ -6,6 +6,7 @@ Esse projeto usa AI (inteligência artificial) para criar resumos automáticos d
 - Interface simples
 - Suporte a vários idiomas
 <br>
+
 # Ferramentas⚙️
 - Vite
 - React
@@ -13,6 +14,7 @@ Esse projeto usa AI (inteligência artificial) para criar resumos automáticos d
 - Puter.js
 - Tailwind
 <br>
+
 # Referência 🪞
 - Para quem quiser criar esse mesmo projeto eu indico esse canal que foi o criador que eu me inspirei para realizar essa aplicação, creio que vai ajudar bastante.
 https://www.youtube.com/@HowtoWebDev/videos
