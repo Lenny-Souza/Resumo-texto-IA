@@ -6,6 +6,7 @@ Esse projeto usa AI (inteligência artificial) para criar resumos automáticos d
 - Interface simples
 - Suporte a váriios idiomas
 <br>
+
 # Ferramentas utilizadas⚙️
 - Vite
 - React
