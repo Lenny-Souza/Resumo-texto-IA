@@ -2,18 +2,18 @@
 Esse projeto usa AI (inteligência artificial) para criar resumos automáticos de textos.
 <br>
 
-# Funcionalidades✅
-- Resumo rápido
-- Interface simples
-- Suporte a vários idiomas
-<br>
-
 # Ferramentas⚙️
 - Vite
 - React
 - Chatgpt
 - Puter.js
 - Tailwind
+<br>
+
+# Funcionalidades✅
+- Resumo rápido
+- Interface simples
+- Suporte a vários idiomas
 <br>
 
 # Referência 🪞
