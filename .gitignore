@@ -1,24 +1,27 @@
-# Logs
-logs
+# Ignorar dependências
+node_modules/
+
+# Ignorar arquivos de build
+dist/
+build/
+
+# Ignorar variáveis de ambiente
+.env
+
+# Ignorar logs
 *.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
 pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# Ignorar IDEs e editores
+.vscode/
+.idea/
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+
+# Ignorar caches do Python (se houver)
+__pycache__/
+*.pyc
+
+# Ignorar arquivos temporários
+*.tmp
