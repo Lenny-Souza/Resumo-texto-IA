@@ -5,7 +5,7 @@ Esse projeto usa AI (inteligência artificial) para criar resumos automáticos d
 # Funcionalidades✅
 - Resumo rápido
 - Interface simples
-- Suporte a váriios idiomas
+- Suporte a vários idiomas
 <br>
 
 # Ferramentas⚙️
